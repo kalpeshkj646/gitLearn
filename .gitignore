@@ -1,0 +1,4 @@
+*.log
+/dir_2/
+static/dir_2
+trial_doc_first.docx

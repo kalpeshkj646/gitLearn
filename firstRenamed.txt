@@ -1,0 +1,10 @@
+
+
+Version of our trial git project
+
+Making changes for commit 2
+
+Modified by KJ
+
+////////////////////
+Directly committing to the repo -> skip staging area
